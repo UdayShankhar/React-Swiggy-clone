@@ -1,3 +1,7 @@
+body{
+  overflow-x: hidden;
+}
+
 .App {
   display: flex;
   height: 5000px;

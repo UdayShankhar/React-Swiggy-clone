@@ -148,7 +148,7 @@ function Homepage() {
                         </div>
                     </div>
                     <div className='card-4'>
-                        <img src='https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/hy9lggmrkopip9k8jlp2' alt='' className='card1-img'></img>
+                        <img src='https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/hy9lggmrkopip9k8jlp2' alt='' className='card1-img' style={{ width: '300px'}}></img>
                         <h4 className='restaurant-name'>Shree konar villas</h4>
                         <p className='category'>South Indian,Chettinad</p>
                         <div className='rtp'>
@@ -215,7 +215,7 @@ function Homepage() {
                         </div>
                     </div>
                     <div className='card-4'>
-                        <img src='https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/jn9n6dvg9tbeahke43sz' alt='' className='card1-img'></img>
+                        <img src='https://b.zmtcdn.com/data/pictures/chains/5/70595/9b60e87fc9c1d60fbb4c2205ccdbd5ef.jpg?fit=around|300:273&crop=300:273;*,*' alt='' className='card1-img'></img>
                         <h4 className='restaurant-name'>Starbucks</h4>
                         <p className='category'>Beverages,Ice-Cream</p>
                         <div className='rtp'>
