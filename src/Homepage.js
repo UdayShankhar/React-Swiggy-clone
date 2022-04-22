@@ -178,11 +178,11 @@ function Homepage() {
                             <p className='time'>56 mins</p>
                             <p className='price'>₹3000 for two</p>
                         </div>
-                        <div className='discount-details'>
+                        {/* <div className='discount-details'>
                             <p>30% Off</p>
                             <p className='bl'></p>
                             <p className='coupon'>Use Coupon: TRYNEW</p>
-                        </div>
+                        </div> */}
                     </div>
                     <div className='card-2'>
                         <img src='https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/uktwrl2h9szneb9fa2yp' alt='' className='card1-img'></img>
